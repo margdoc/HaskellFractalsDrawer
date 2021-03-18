@@ -1,5 +1,7 @@
 # Fractals
 
+Code written in Hashell with SFML bindings.
+
 ## Run Code
 
 run ```stack build``` to compile code and ```stack exec Fractals-exe``` to run code.
